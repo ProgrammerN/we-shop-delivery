@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "735346630842",
+    "firebase_url": "https://we-shop-848f6.firebaseio.com",
+    "project_id": "we-shop-848f6",
+    "storage_bucket": "we-shop-848f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735346630842:android:51a8f62a00e714dcd92283",
+        "android_client_info": {
+          "package_name": "com.weshop.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735346630842-ltv8dccanhubfpqf566c9spl03d6p5jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weshop.deliveryboy",
+            "certificate_hash": "e0bd9fa3d7c021861ed2e166871abce3d6592c65"
+          }
+        },
+        {
+          "client_id": "735346630842-3lqpvkht4u2o64num6ne3bk4bs1tduag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdC80ryz8RkWrqOtc-EUbGGmeBLSUzfls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735346630842-3lqpvkht4u2o64num6ne3bk4bs1tduag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735346630842:android:2066af36f25d7fb0d92283",
+        "android_client_info": {
+          "package_name": "com.weshop.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735346630842-u60gi64akm4a5l1ie8qdj37n1eqa2054.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weshop.driver",
+            "certificate_hash": "e0bd9fa3d7c021861ed2e166871abce3d6592c65"
+          }
+        },
+        {
+          "client_id": "735346630842-3lqpvkht4u2o64num6ne3bk4bs1tduag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdC80ryz8RkWrqOtc-EUbGGmeBLSUzfls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735346630842-3lqpvkht4u2o64num6ne3bk4bs1tduag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735346630842:android:25291d1734c875aed92283",
+        "android_client_info": {
+          "package_name": "com.weshop.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735346630842-ufguf3vkmt7fg9i5fvm37en6crklb9p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weshop.store",
+            "certificate_hash": "e0bd9fa3d7c021861ed2e166871abce3d6592c65"
+          }
+        },
+        {
+          "client_id": "735346630842-3lqpvkht4u2o64num6ne3bk4bs1tduag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdC80ryz8RkWrqOtc-EUbGGmeBLSUzfls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735346630842-3lqpvkht4u2o64num6ne3bk4bs1tduag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
